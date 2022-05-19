@@ -12,7 +12,6 @@ import java.util.List;
 
 @SpringBootApplication
 public class MeetingsApplication {
-	// https://dzone.com/articles/how-to-create-rest-api-with-spring-boot
 	public static void main(String[] args) {
 		SpringApplication.run(MeetingsApplication.class, args);
 	}
